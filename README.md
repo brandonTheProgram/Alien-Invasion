@@ -1,6 +1,6 @@
 # Alien-Invasion
 
-A working version of Space Invaders that was built using PyGame as guided by Eric Matthews' book Python Crash Course. This is a recreation of the arcade game Space Invaders in where the user has to destroy all the aliens that are sliding across and down the screen to reach the next level. As the levels get higher, the speed of the aliens and the ship's bullet increase as well. Game over is achieved when an alien either touches the ship or the bottom of the screen.
+A working version of Space Invaders that was built using PyGame as guided by Eric Matthews' book Python Crash Course. This is a recreation of the arcade game Space Invaders in where the user has to destroy all the aliens that are sliding across and down the screen to reach the next level. As the levels get higher, the speed of the aliens and the ship's bullet increase as well. Game over is achieved when an alien either touches the ship or the bottom of the screen. The audio is taken from the orignal game from classicgaming.cc/classics/space-invaders/sounds
 
 # Steps-to-use
 
